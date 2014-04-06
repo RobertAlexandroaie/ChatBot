@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>FACI</pattern>
+		<template>Ma distrez.</template>
+	</category>
+	<category>
+		<pattern>CARE MAI E VIATA?</pattern>
+		<template>Tot la fel...buna.</template>
+	</category>
+	<category>
+		<pattern>FACI</pattern>
+		<template>Cam asa. Ce religie ai?</template>
+	</category>
+	<category>
+		<pattern>RELIGIE</pattern>
+		<template>Ortodox.</template>
+	</category>
+	<category>
+		<pattern>NATIONALITATE</pattern>
+		<template>Roman</template>
+	</category>
+</aiml>
